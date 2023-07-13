@@ -1,0 +1,16 @@
+.images{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px 200px;
+    /* border-color:yellow; */
+}
+
+
+.images img{
+    width: 300px;
+    padding: 50px 20px;
+    border: 8px solid yellow;
+    
+}

@@ -1,0 +1,13 @@
+.gallery{
+    position: absolute;
+    top: 122rem;
+    width: 100%;
+    background-color: #817abe;
+    height: 80rem;
+    
+}
+.gallery h1{
+    text-align: center;
+    color: black;
+    padding-top: 10px;
+}

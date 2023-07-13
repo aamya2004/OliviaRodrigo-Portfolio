@@ -1,0 +1,17 @@
+.music{
+    background-color: black;
+    height: 80rem;
+    width: 100%;
+    color: white;
+    position: absolute;
+    top: 43rem;
+}
+
+.musicCol{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.musicCol h1{
+    color: #817abe;
+}

@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background-image: url(./assets/Olivia.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home{
+    width: 100%;
+}
+.intro{
+    position: absolute;
+    top: 40%;
+    left: 60px;
+    background-color: black;
+    display: block;
+}
+
+.home h1{
+    font-size: 60px;
+    padding: 5px;
+    color: yellow;
+}
+
+#about{
+    position: relative;
+    top: 7rem;
+    left: 60px;
+    display: inline-block;
+    white-space: pre-wrap;
+    width: 60%;
+    color: black;
+}

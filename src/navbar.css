@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.nav{
+    background-color: black;
+    /* display: flex; */
+    align-items: center;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav a:hover{
+    color: #817abe;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration:overline;
+}
+
+
+.nav ul{
+    list-style: none;
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    left: 35%;
+}
+.nav ul li{
+    padding: 0px 38px;
+    font-size: 20px;
+    /* background-color: aliceblue; */
+    
+}
